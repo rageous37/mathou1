@@ -1,0 +1,37 @@
+/*BLOC CSS*/
+
+body{
+    background-color: black;
+}
+
+.gros_titre{
+    text-transform: uppercase;
+    
+}
+
+.petit_titre{
+    color: white;
+}
+
+.bloc_image{
+    color: white;
+    font-family: 'Lemon', serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.photo1{
+    border: solid white 5px;
+    width: 100%;
+}
+
+.bloc_image2{
+    color: white;
+    font-family: 'Lemon', serif;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    margin-top: 100px;
+}
